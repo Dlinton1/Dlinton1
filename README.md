@@ -9,7 +9,7 @@
   - [osTicket: Password reset](https://github.com/Dlinton1/-osTicket-Password-Reset)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Dlinton1/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
