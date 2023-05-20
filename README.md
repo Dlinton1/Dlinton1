@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dominique, an <a href="https://www.linkedin.com/in/dominique-linton-637581258">IT Professional</a>☺</h1>
+<h1> Greetings! I go by Dominique, and I'm an accomplished <a href="https://www.linkedin.com/in/dominique-linton-637581258">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
