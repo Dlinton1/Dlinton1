@@ -13,6 +13,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dlinton1/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
   - [Network File Shares and Permissions](https://github.com/Dlinton1/network-file-share)
 
+- <b>Linux OS</b>
+  - [Linux Virtual Machine: Installing Mozilla Firefox](https://github.com/Dlinton1/Installing-Firefox-to-Linux.git)
+
 <h2>🤳Connect with me:</h2>
 
 
